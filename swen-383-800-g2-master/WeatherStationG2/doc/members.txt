@@ -1,0 +1,29 @@
+Name: Zvonimir Tancinec 
+Account: ztancinec
+Have you been on co-op? no
+List 1 to 3 programming languages you know: Java, C#, JavaScript
+List 1 to 3 hobbies or interests: gamedev, music
+
+Name: Ljubo Zadro 
+Account: ordaz123
+Have you been on co-op? yes
+List 1 to 3 programming languages you know: Java, JavaScript
+List 1 to 3 hobbies or interests: books, movies, basketball
+
+Name: Dora Beronic
+Account: dberonic
+Have you been on co-op? no
+List 1 to 3 programming languages you know: Java, JavaScript, C#
+List 1 to 3 hobbies or interests: music, movies, sports
+
+Name: Dominik Maric
+Account: dmaric
+Have you been on co-op? no
+List 1 to 3 programming languages you know: Java, Javascript.
+List 1 to 3 hobbies or interests: sport, music, video-games.
+
+Name: Adam Jozic
+Account: ajozic
+Have you been on co-op? no
+List 1 to 3 programming languages you know: Java, Javascript.
+List 1 to 3 hobbies or interests: books, sport, technology.
