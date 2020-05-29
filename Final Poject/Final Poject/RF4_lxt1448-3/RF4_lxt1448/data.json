@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "Duksa Pizza",
+    "about": "Thin crusty pizza, prepared in wood oven. Fresh basil, organic garlic, extravirgin olive oil. Interior that makes you wanna stay. Forever.",
+    "website": "https://www.facebook.com/Duksa-Pizza-332854106795014/",
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/03/23/fe/33/getlstd-property-photo.jpg",
+    "type": 5,
+    "location": {
+      "latitude": 45.822175,
+      "longitude": 16.011667
+    }
+  },
+  {
+    "id": 2,
+    "name": "Canzona",
+    "about": "Italian, Pizza, Mediterranean, European, Vegetarian Friendly, Vegan Options",
+    "website": "http://canzona.hr/",
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0d/9e/00/8f/canzona-interior.jpg",
+    "type": 5,
+    "location": {
+      "latitude": 45.807962,
+      "longitude": 15.988237
+    }
+  },
+  {
+    "id": 3,
+    "name": "Karijola",
+    "about": "Italian, Pizza, European",
+    "website": "http://www.pizzeria-karijola.com",
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/05/74/ea/6c/karijola.jpg",
+    "type": 5,
+    "location": {
+      "latitude": 45.803889,
+      "longitude": 15.958608
+    }
+  },
+  {
+    "id": 4,
+    "name": "Zero Zero Pizzeria",
+    "about": "Italian, Pizza, European",
+    "website": "https://www.facebook.com/Pizzeria.Zero.Zero",
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/07/14/e1/82/zero-zero-pizzeria.jpg",
+    "type": 5,
+    "location": {
+      "latitude": 45.813808,
+      "longitude": 15.981915
+    }
+  },
+  {
+    "id": 5,
+    "name": "Kelly's Grill & Bar",
+    "about": "Cafe, Fast Food, European, Croatian, Vegetarian Friendly",
+    "website": "https://www.facebook.com/ZagrebKellysGrill/",
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/11/81/a7/8e/kelly-s-grill-bar.jpg",
+    "type": 4,
+    "location": {
+      "latitude": 45.799631,
+      "longitude": 15.912934
+    }
+  },
+  {
+    "id": 6,
+    "name": "Submarine Burger Radnicka",
+    "about": "All-Natural Homemade Gourmet Burgers and Superfood Salads. Preferably Local, Preferably Organic. Nothing artificial.",
+    "website": "http://submarineburger.com",
+    "imageUrl": "https://submarineburger.com/wp-content/uploads/2016/12/submarine1dc.jpg",
+    "type": 4,
+    "location": {
+      "latitude": 45.803678,
+      "longitude": 15.998374
+    }
+  },
+  {
+    "id": 7,
+    "name": "Ali Kebaba",
+    "about": "'World class flavour' has been our guiding idea since the very beginning and today –  it’s our motto.",
+    "website": "https://www.alikebaba.hr/",
+    "imageUrl": "https://www.alikebaba.hr/site/assets/files/1039/onama.jpg",
+    "type": 4,
+    "location": {
+      "latitude": 45.796803,
+      "longitude": 15.895420
+    }
+  },
+  {
+    "id": 8,
+    "name": "Batak Grill Cvjetni",
+    "about": "Barbecue, European, Eastern European, Croatian",
+    "website": "http://batak-grill.hr",
+    "imageUrl": "http://batak-grill.hr/wp-content/uploads/2018/07/IMG_6398.jpg",
+    "type": 3,
+    "location": {
+      "latitude": 45.812233,
+      "longitude": 15.973195
+    }
+  },
+  {
+    "id": 9,
+    "name": "Pri Zvoncu",
+    "about": "Local cuisine, Steakhouse, European, Eastern European, Croatian",
+    "website": "https://prizvoncu.com",
+    "imageUrl": "https://prizvoncu.com/wp/wp-content/uploads/2015/11/s1.jpg",
+    "type": 3,
+    "location": {
+      "latitude": 45.795315,
+      "longitude": 15.969117
+    }
+  },
+  {
+    "id": 10,
+    "name": "Japanese restaurant Tekka",
+    "about": "Japanese restaurant Tekka offers a wide variety of japanese specialties such as sushi, sashimi, nigri, big rolls, hosomaki, uramaki, teppanyaki, tenpura, fusion, wok and sake with affordable prices. Indulge your senses in fantastic specialities from the japanese cuisine.",
+    "website": "http://tekka.hr",
+    "imageUrl": "https://tekka.hr/content/uploads/2015/05/IMG_4062.jpg",
+    "type": 2,
+    "location": {
+      "latitude": 45.802757,
+      "longitude": 16.003147
+    }
+  },
+  {
+    "id": 11,
+    "name": "Dubravkin Put",
+    "about": "Located in the Tuškanac forest, just a few minutes’ walk from the very centre of the city, Dubravkin put is both a restaurant and a wine bar. Its interior is warm and contemporary, while its terrace has a beautiful view of the park and forest. Our philosophy is about offering an innovative dining concept which reflects a Mediterranean influence. The Mediterranean cuisine, with the menu designed by our chef Priska Thuring, and professional and helpful staff  will offer each guest a delicious, elegant and sophisticated experience. Our professionalism, attention to detail and the combination of tradition and innovation will not leave you indifferent.",
+    "website": "https://www.dubravkin-put.com",
+    "imageUrl": "https://www.dubravkin-put.com/eng/wp-content/gallery/gallery/W5A0667.jpg",
+    "type": 1,
+    "location": {
+      "latitude": 45.818528,
+      "longitude": 15.973139
+    }
+  }
+]
